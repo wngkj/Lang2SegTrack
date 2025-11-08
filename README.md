@@ -6,7 +6,6 @@ Language-driven visual segmentation and object tracking system based on [Groundi
 ---
 ### 🔥 News
 
-- **`Coming Soon`**: Introducing multimodal large models to achieve precise image segmentation and object tracking under long-form instructions.
 - **`2025/07/31`**: Support continuous detection, tracking, and segmentation of individual category objects through text prompts. Optimize the old data release logic to reduce memory footprint and improve the running speed of interactive inference.
 - **`2025/07/19`**: Supports backward tracking of each object.
 - **`2025/05/08`**: Optimize memory usage and code structure.
